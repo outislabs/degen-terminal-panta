@@ -1,0 +1,23 @@
+{
+  "name": "degen-terminal-panta",
+  "private": true,
+  "version": "0.1.0",
+  "description": "Panta prediction-market integration extracted from Degen Terminal (read-only reference).",
+  "type": "module",
+  "scripts": {
+    "typecheck": "tsc --noEmit"
+  },
+  "dependencies": {
+    "@solana/web3.js": "^1.95.0",
+    "lucide-react": "^1.8.0",
+    "react": "^19.2.0",
+    "react-router-dom": "^6.28.0",
+    "sonner": "^2.0.7",
+    "tweetnacl-util": "^0.15.1"
+  },
+  "devDependencies": {
+    "@types/node": "^22.0.0",
+    "@types/react": "^19.2.0",
+    "typescript": "^5.8.3"
+  }
+}
