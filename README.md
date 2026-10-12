@@ -3,7 +3,7 @@
 This is the Panta prediction-market integration from [Degen Terminal](https://dgnterminal.com), pulled out on its own so it can be read and reviewed.
 
 - **Live app:** https://dgnterminal.com (open the **Predict** tab)
-- **Demo video:** _TODO: add demo video link_
+- **Demo video:** https://youtu.be/pc1K0PQ7Wk8?si=xNYgpBNNWbA55n4D
 
 > **The full app is closed source.** This repo contains only the Panta integration. Wallet internals, other chains, fee logic and admin code were removed and replaced with small typed stubs marked `// stub: lives in private Degen Terminal codebase`. **Judges can request access to the private repo.**
 
