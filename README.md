@@ -9,7 +9,7 @@ This is the Panta prediction-market integration from [Degen Terminal](https://dg
 
 ## What Degen Terminal is
 
-Degen Terminal is a multi-chain trading terminal for on-chain tokens, on Solana, EVM chains and TON. It has live token discovery, charts, one-tap buys and sells, cross-chain swaps and bridges, a portfolio with PnL, and an earn tab. It runs in the browser and on mobile with embedded wallets, so users never manage seed phrases or install extensions. The Panta integration adds a **Predict** tab: YES/NO prediction markets on Solana, paid in USDC. From any Solana token page there is also a one-click **"Predict on $TOKEN"** button that pre-fills a market from live on-chain data.
+Degen Terminal is a multi-chain trading terminal built for first-time traders in emerging markets. Trade crypto, tokenized US stocks and prediction markets across six chains from one app, with embedded wallets (no seed phrase), a safety check on every token, and an AI agent that finds tokens and flags scam risks before you buy. Live at dgnterminal.com with 212 users in open beta. The Panta integration adds a **Predict** tab: YES/NO prediction markets on Solana, paid in USDC. From any Solana token page there is also a one-click **"Predict on $TOKEN"** button that pre-fills a market from live on-chain data.
 
 ## How Panta is integrated
 
@@ -103,5 +103,6 @@ To typecheck: `npm install && npm run typecheck`. This repo is for reading and r
 
 - Degen Terminal: https://dgnterminal.com
 - Panta: https://panta.market
-- Demo video: _TODO: add demo video link_
-- Private repo access: available to judges on request
+- Demo video: https://www.youtube.com/watch?v=pc1K0PQ7Wk8
+- Private repo access: available to judges on request x.com/dgnterminal
+- t.me/legalalien0x
